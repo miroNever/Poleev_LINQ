@@ -1,0 +1,17 @@
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\bin\Debug\net6.0-windows\Poleev_linq.exe
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\bin\Debug\net6.0-windows\Poleev_linq.deps.json
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\bin\Debug\net6.0-windows\Poleev_linq.runtimeconfig.json
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\bin\Debug\net6.0-windows\Poleev_linq.dll
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\bin\Debug\net6.0-windows\Poleev_linq.pdb
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\obj\Debug\net6.0-windows\Poleev_linq.csproj.AssemblyReference.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\obj\Debug\net6.0-windows\Poleev_linq.Form1.resources
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\obj\Debug\net6.0-windows\Poleev_linq.csproj.GenerateResource.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\obj\Debug\net6.0-windows\Poleev_linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\obj\Debug\net6.0-windows\Poleev_linq.AssemblyInfoInputs.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\obj\Debug\net6.0-windows\Poleev_linq.AssemblyInfo.cs
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\obj\Debug\net6.0-windows\Poleev_linq.csproj.CoreCompileInputs.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\obj\Debug\net6.0-windows\Poleev_linq.dll
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\obj\Debug\net6.0-windows\refint\Poleev_linq.dll
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\obj\Debug\net6.0-windows\Poleev_linq.pdb
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\obj\Debug\net6.0-windows\Poleev_linq.genruntimeconfig.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\Poleev_linq\obj\Debug\net6.0-windows\ref\Poleev_linq.dll
